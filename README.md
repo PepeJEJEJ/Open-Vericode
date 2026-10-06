@@ -1,2 +1,6 @@
 # Open-Vericode
 VENGANZA POR NO DEJARNOS AYUDARNOS DE LOS APUNTES >:(
+Vericode permite programar (en caso de examenes) de forma carente de trampas, y que mejor que...
+Un github que nos permitira buscar vulnerabilidades...
+O modificarlo y mejorarlo
+(No soy dueño de nada de esto y no me hago responsable de nada)
